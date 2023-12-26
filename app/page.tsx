@@ -23,7 +23,7 @@ export default function App() {
     {
       start: dayjs('2023-12-18T09:00:00').toDate(),
       end: dayjs('2023-12-18T20:00:00').toDate(),
-      title: "Progranar en Wespeak",
+      title: "Programar en Wespeak",
     },
     {
       start: dayjs('2023-12-18T20:30:00').toDate(),
@@ -43,7 +43,7 @@ export default function App() {
     {
       start: dayjs('2023-12-25T09:00:00').toDate(),
       end: dayjs('2023-12-25T20:00:00').toDate(),
-      title: "Progranar en Wespeak",
+      title: "Programar en Wespeak",
     },
     {
       start: dayjs('2023-12-25T20:30:00').toDate(),
@@ -63,7 +63,7 @@ export default function App() {
     {
       start: dayjs('2023-12-21T09:00:00').toDate(),
       end: dayjs('2023-12-21T20:00:00').toDate(),
-      title: "Progranar en Wespeak",
+      title: "Programar en Wespeak",
     },
     {
       start: dayjs('2023-12-21T20:30:00').toDate(),
@@ -83,7 +83,7 @@ export default function App() {
     {
       start: dayjs('2023-12-13T09:00:00').toDate(),
       end: dayjs('2023-12-10T20:00:00').toDate(),
-      title: "Progranar en Wespeak",
+      title: "Programar en Wespeak",
     },
     {
       start: dayjs('2023-12-13T20:30:00').toDate(),
@@ -103,7 +103,7 @@ export default function App() {
     {
       start: dayjs('2023-12-05T09:00:00').toDate(),
       end: dayjs('2023-12-05T20:00:00').toDate(),
-      title: "Progranar en Wespeak",
+      title: "Programar en Wespeak",
     },
     {
       start: dayjs('2023-12-05T20:30:00').toDate(),
