@@ -29,5 +29,32 @@ body {
 
 .container{
   width: 95vw;
-  height: 85vh;
+  height: 90vh;
+  margin: auto;
+  border: 2px solid blueviolet;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.tarea-Wespeak{
+  display: flex;
+  background-color: blueviolet;
+  border-radius: 0.3rem;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.tarea-Coderhouse{
+  display: flex;
+  background-color: darkblue;
+  border-radius: 0.3rem;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.rbc-event, .rbc-day-slot .rbc-background-event {
+  margin: 0;
+  padding: 0px !important;
 }
