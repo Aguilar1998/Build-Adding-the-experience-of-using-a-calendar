@@ -24,13 +24,90 @@ export default function App() {
       start: dayjs('2023-12-18T09:00:00').toDate(),
       end: dayjs('2023-12-18T20:00:00').toDate(),
       title: "Progranar en Wespeak",
-      data: {
-        x: 10
-      }
     },
     {
       start: dayjs('2023-12-18T20:30:00').toDate(),
       end: dayjs('2023-12-18T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-15T09:00:00').toDate(),
+      end: dayjs('2023-12-15T20:00:00').toDate(),
+      title: "Programar en Wespeak"
+    },
+    {
+      start: dayjs('2023-12-15T20:30:00').toDate(),
+      end: dayjs('2023-12-15T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-25T09:00:00').toDate(),
+      end: dayjs('2023-12-25T20:00:00').toDate(),
+      title: "Progranar en Wespeak",
+    },
+    {
+      start: dayjs('2023-12-25T20:30:00').toDate(),
+      end: dayjs('2023-12-25T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-20T09:00:00').toDate(),
+      end: dayjs('2023-12-20T20:00:00').toDate(),
+      title: "Programar en Wespeak"
+    },
+    {
+      start: dayjs('2023-12-20T20:30:00').toDate(),
+      end: dayjs('2023-12-20T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-21T09:00:00').toDate(),
+      end: dayjs('2023-12-21T20:00:00').toDate(),
+      title: "Progranar en Wespeak",
+    },
+    {
+      start: dayjs('2023-12-21T20:30:00').toDate(),
+      end: dayjs('2023-12-21T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-11T09:00:00').toDate(),
+      end: dayjs('2023-12-11T20:00:00').toDate(),
+      title: "Programar en Wespeak"
+    },
+    {
+      start: dayjs('2023-12-11T20:30:00').toDate(),
+      end: dayjs('2023-12-11T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-13T09:00:00').toDate(),
+      end: dayjs('2023-12-10T20:00:00').toDate(),
+      title: "Progranar en Wespeak",
+    },
+    {
+      start: dayjs('2023-12-13T20:30:00').toDate(),
+      end: dayjs('2023-12-10T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-29T09:00:00').toDate(),
+      end: dayjs('2023-12-29T20:00:00').toDate(),
+      title: "Programar en Wespeak"
+    },
+    {
+      start: dayjs('2023-12-29T20:30:00').toDate(),
+      end: dayjs('2023-12-29T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-05T09:00:00').toDate(),
+      end: dayjs('2023-12-05T20:00:00').toDate(),
+      title: "Progranar en Wespeak",
+    },
+    {
+      start: dayjs('2023-12-05T20:30:00').toDate(),
+      end: dayjs('2023-12-05T22:30:00').toDate(),
       title: "Clases En CoderHouse"
     },
   ]
