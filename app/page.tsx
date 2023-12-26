@@ -31,13 +31,13 @@ export default function App() {
       title: "Clases En CoderHouse"
     },
     {
-      start: dayjs('2023-12-15T09:00:00').toDate(),
-      end: dayjs('2023-12-15T20:00:00').toDate(),
+      start: dayjs('2023-12-12T09:00:00').toDate(),
+      end: dayjs('2023-12-12T20:00:00').toDate(),
       title: "Programar en Wespeak"
     },
     {
-      start: dayjs('2023-12-15T20:30:00').toDate(),
-      end: dayjs('2023-12-15T22:30:00').toDate(),
+      start: dayjs('2023-12-12T20:30:00').toDate(),
+      end: dayjs('2023-12-12T22:30:00').toDate(),
       title: "Clases En CoderHouse"
     },
     {
@@ -91,13 +91,13 @@ export default function App() {
       title: "Clases En CoderHouse"
     },
     {
-      start: dayjs('2023-12-29T09:00:00').toDate(),
-      end: dayjs('2023-12-29T20:00:00').toDate(),
+      start: dayjs('2023-12-19T09:00:00').toDate(),
+      end: dayjs('2023-12-19T20:00:00').toDate(),
       title: "Programar en Wespeak"
     },
     {
-      start: dayjs('2023-12-29T20:30:00').toDate(),
-      end: dayjs('2023-12-29T22:30:00').toDate(),
+      start: dayjs('2023-12-19T20:30:00').toDate(),
+      end: dayjs('2023-12-19T22:30:00').toDate(),
       title: "Clases En CoderHouse"
     },
     {
