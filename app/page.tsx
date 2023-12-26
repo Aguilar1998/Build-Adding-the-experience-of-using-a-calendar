@@ -11,6 +11,26 @@ export default function App() {
 
   const events = [
     {
+      start: dayjs('2023-12-06T09:00:00').toDate(),
+      end: dayjs('2023-12-06T20:00:00').toDate(),
+      title: "Programar en Wespeak"
+    },
+    {
+      start: dayjs('2023-12-06T20:30:00').toDate(),
+      end: dayjs('2023-12-06T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
+      start: dayjs('2023-12-07T09:00:00').toDate(),
+      end: dayjs('2023-12-07T20:00:00').toDate(),
+      title: "Programar en Wespeak"
+    },
+    {
+      start: dayjs('2023-12-07T20:30:00').toDate(),
+      end: dayjs('2023-12-07T22:30:00').toDate(),
+      title: "Clases En CoderHouse"
+    },
+    {
       start: dayjs('2023-12-14T09:00:00').toDate(),
       end: dayjs('2023-12-14T20:00:00').toDate(),
       title: "Programar en Wespeak"
